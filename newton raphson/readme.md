@@ -20,7 +20,7 @@ The margin of error is quadraticly related at each step. <br/>
 There are also some difficulties with the method; Newton's second method
 If the assumptions made in the proof of degree convergence are not met,
 convergence slows down for the roots of the function. <br/>
-![Tangent and root point Graph](images/newto2n.gif.gif) <br/>
+![Tangent and root point Graph](images/newto2n.gif) <br/>
 
 [YouTube] ( https://www.youtube.com/watch?v=6_VNKeGXZBw “YouTube”) <br/>
 [Wikipedia] ( https://en.wikipedia.org/wiki/Newton%27s_method “WikiPedia”) <br/>
