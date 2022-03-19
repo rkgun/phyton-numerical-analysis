@@ -1,4 +1,4 @@
-#Fixed Point Iteration <br/>
+# Fixed Point Iteration <br/>
 Let f(x) be a continuous and bounded function in the interval \[a,b\].
 Suppose we want to find a r∈\[a,b\] satisfying the condition f(r)=0. <br/>
 In this case, it is clear that we can write the equation f(x)=0 in the form x=g(x).
